@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osaamaahmeed" alt="osaamaahmeed" /></a> </p>
 
-- 🎯 I'm currently seeking **Pupil on Codeforces**
+- 🎯 I'm currently seeking **Pupil on <i>Codeforces</i>**
 
 - 🌱 I’m currently learning **Dart, Flutter, and C++**
 
