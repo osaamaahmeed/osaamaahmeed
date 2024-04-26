@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osaamaahmeed&" alt="osaamaahmeed" /></p>
+<p style="display:inline-block;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osaamaahmeed&" alt="osaamaahmeed" /></p>
 <br>
 <hr>
 <br>
 <!-- <img src="https://wakatime.com/share/@018f07c5-8cd7-4f6b-a22d-2f28977879b7/cc4c9b53-a009-4d04-8a06-39752307c20d.svg"></img> -->
-   <a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@018f07c5-8cd7-4f6b-a22d-2f28977879b7/8279c6b8-aae7-41fd-961b-4071aa3043f2.png" /></a>/></a>
+   <a style="display:inline-block;" href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@018f07c5-8cd7-4f6b-a22d-2f28977879b7/8279c6b8-aae7-41fd-961b-4071aa3043f2.png" /></a>
 
 
