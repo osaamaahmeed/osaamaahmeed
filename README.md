@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <br>
-<figure><embed src="https://wakatime.com/share/@018f07c5-8cd7-4f6b-a22d-2f28977879b7/cc4c9b53-a009-4d04-8a06-39752307c20d.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@018f07c5-8cd7-4f6b-a22d-2f28977879b7/cc4c9b53-a009-4d04-8a06-39752307c20d.svg"></embed>
